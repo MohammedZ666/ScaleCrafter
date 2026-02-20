@@ -8,4 +8,4 @@ conda create -n scalecrafter python=3.8
 conda activate scalecrafter
 pip install -r requirements.txt
 mkdir -p /content/logs
-echo "Colab is ready for Fouriscale"  
+echo "Colab is ready for ScaleCrafter"  
